@@ -2,81 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d61d085-00c3-4d83-91fb-8970add5d1d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/List/ExemploList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/List/ExemploVector.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/comparators/ComparatorsExampleList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/comparators/Estudante.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/comparators/EstudanteOrdemIdadeReversaComparator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/map/ExemploHashMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/map/ExemploHashTable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/map/ExemploTreeMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/optional/ExemploOptional.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/optional/ExemploOptionalEstados.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/queue/ExemploQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/set/ExemploHashSet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/set/ExemploLinkedHashSet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/set/ExemploTreeSet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/stream/ExemploStreamAPI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/libs/javaproject-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/ComposicaodeFuncoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/Consumidores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/FatorialMemorization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/FatorialRecursivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/FatorialTailCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/Funcao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/FuncaoComClasseAnonima.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/FuncaoComLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/Funcao_Alta_Ordem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/FuncoesPuras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/Functions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/FutureExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/Imutabilidade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/InterfaceFuncional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/Iterators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/ParallelStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/Predicados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/Suppliers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/ThreadExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/java_diggital_innovation_one.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/ExemploList.java" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/gc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/List/ExemploList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/List/ExemploList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/List/ExemploVector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/List/ExemploVector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/comparators/ComparatorsExampleList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comparators/ComparatorsExampleList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/comparators/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comparators/Estudante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/comparators/EstudanteOrdemIdadeReversaComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comparators/EstudanteOrdemIdadeReversaComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/map/ExemploHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/map/ExemploHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/map/ExemploHashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/map/ExemploHashTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/map/ExemploTreeMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/map/ExemploTreeMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/optional/ExemploOptional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/optional/ExemploOptional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/optional/ExemploOptionalEstados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/optional/ExemploOptionalEstados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/queue/ExemploQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/queue/ExemploQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/set/ExemploHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/set/ExemploHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/set/ExemploLinkedHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/set/ExemploLinkedHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/set/ExemploTreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/set/ExemploTreeSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stream/ExemploStreamAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stream/ExemploStreamAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/Atividade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/BarraDeCarregamento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/BarraDeCarregamento2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/BarraDeCarregamento3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/Calculo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/Casa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/Comodo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/ComposicaodeFuncoes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/Consumidores.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/FatorialMemorization.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/FatorialRecursivo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/FatorialTailCall.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/Funcao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/Funcao1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/FuncaoComClasseAnonima$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/FuncaoComClasseAnonima.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/FuncaoComLambda.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/Funcao_Alta_Ordem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/FuncoesPuras.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/Functions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/FutureExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/GerarPDF.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/Imutabilidade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/InterfaceFuncional.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/Iterators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/ParallelStreams.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/Pessoa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/Predicados.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/Quarto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/Suppliers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Aulas_Java_Avancado/ThreadExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/InferenciasExemplo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/ComposicaodeFuncoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/ComposicaodeFuncoes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/Consumidores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/Consumidores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/FatorialMemorization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/FatorialMemorization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/FatorialRecursivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/FatorialRecursivo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/FatorialTailCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/FatorialTailCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/Funcao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/Funcao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/FuncaoComClasseAnonima.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/FuncaoComClasseAnonima.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/FuncaoComLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/FuncaoComLambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/Funcao_Alta_Ordem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/Funcao_Alta_Ordem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/FuncoesPuras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/FuncoesPuras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/Functions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/FutureExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/FutureExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/Imutabilidade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/Imutabilidade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/InterfaceFuncional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/InterfaceFuncional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/Iterators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/Iterators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/ParallelStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/ParallelStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/Predicados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/Predicados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/Suppliers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/Suppliers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/ThreadExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aulas_Java_Avancado/ThreadExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,9 +126,22 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.grazie" />
   </component>
-  <component name="RunManager" selected="Application.ParallelStreams">
+  <component name="RunManager" selected="Application.InferenciasExemplo">
     <configuration name="FutureExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aulas_Java_Avancado.FutureExample" />
+      <module name="javaproject.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aulas_Java_Avancado.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InferenciasExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aulas_Java_Avancado.InferenciasExemplo" />
       <module name="javaproject.main" />
       <extension name="coverage">
         <pattern>
@@ -182,19 +179,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Suppliers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aulas_Java_Avancado.Suppliers" />
-      <module name="javaproject.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Aulas_Java_Avancado.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ThreadExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aulas_Java_Avancado.ThreadExample" />
       <module name="javaproject.main" />
@@ -210,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InferenciasExemplo" />
         <item itemvalue="Application.ParallelStreams" />
         <item itemvalue="Application.FutureExample" />
         <item itemvalue="Application.ThreadExample" />
         <item itemvalue="Application.Iterators" />
-        <item itemvalue="Application.Suppliers" />
       </list>
     </recent_temporary>
   </component>
@@ -243,22 +227,22 @@
       <screen x="70" y="27" width="1290" height="741" />
     </state>
     <state x="523" y="105" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/70.27.1290.741@70.27.1290.741" timestamp="1588109081385" />
-    <state width="1214" height="128" key="GridCell.Tab.0.bottom" timestamp="1588232166386">
+    <state width="1244" height="176" key="GridCell.Tab.0.bottom" timestamp="1588309063772">
       <screen x="70" y="27" width="1290" height="741" />
     </state>
-    <state width="1214" height="128" key="GridCell.Tab.0.bottom/70.27.1290.741@70.27.1290.741" timestamp="1588232166386" />
-    <state width="1214" height="128" key="GridCell.Tab.0.center" timestamp="1588232166385">
+    <state width="1244" height="176" key="GridCell.Tab.0.bottom/70.27.1290.741@70.27.1290.741" timestamp="1588309063772" />
+    <state width="1244" height="176" key="GridCell.Tab.0.center" timestamp="1588309063771">
       <screen x="70" y="27" width="1290" height="741" />
     </state>
-    <state width="1214" height="128" key="GridCell.Tab.0.center/70.27.1290.741@70.27.1290.741" timestamp="1588232166385" />
-    <state width="1214" height="128" key="GridCell.Tab.0.left" timestamp="1588232166385">
+    <state width="1244" height="176" key="GridCell.Tab.0.center/70.27.1290.741@70.27.1290.741" timestamp="1588309063771" />
+    <state width="1244" height="176" key="GridCell.Tab.0.left" timestamp="1588309063770">
       <screen x="70" y="27" width="1290" height="741" />
     </state>
-    <state width="1214" height="128" key="GridCell.Tab.0.left/70.27.1290.741@70.27.1290.741" timestamp="1588232166385" />
-    <state width="1214" height="128" key="GridCell.Tab.0.right" timestamp="1588232166386">
+    <state width="1244" height="176" key="GridCell.Tab.0.left/70.27.1290.741@70.27.1290.741" timestamp="1588309063770" />
+    <state width="1244" height="176" key="GridCell.Tab.0.right" timestamp="1588309063771">
       <screen x="70" y="27" width="1290" height="741" />
     </state>
-    <state width="1214" height="128" key="GridCell.Tab.0.right/70.27.1290.741@70.27.1290.741" timestamp="1588232166386" />
+    <state width="1244" height="176" key="GridCell.Tab.0.right/70.27.1290.741@70.27.1290.741" timestamp="1588309063771" />
     <state x="379" y="174" key="run.anything.popup" timestamp="1588203146068">
       <screen x="70" y="27" width="1290" height="741" />
     </state>
