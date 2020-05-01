@@ -1,4 +1,4 @@
-package FatorialRecursivo;
+package Aulas_Java_Avancado;
 
 import java.util.function.BiPredicate;
 

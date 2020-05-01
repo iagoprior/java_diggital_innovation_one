@@ -1,4 +1,4 @@
-package FatorialRecursivo;
+package Aulas_Java_Avancado;
 
 public class FuncaoComClasseAnonima {
 
